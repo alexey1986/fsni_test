@@ -1,0 +1,10 @@
+.carousel-item {
+    background: #ccc;
+    height: 300px;
+}
+
+.carousel-caption {
+    top: 20%;
+    bottom: auto;
+    text-align: left;
+}
